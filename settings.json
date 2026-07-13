@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "obsidianhowl.aternos.me
-",
+    "ip": "obsidianhowl.aternos.me",
     "port": 42473,
     "version": "",
     "try-creative": false
